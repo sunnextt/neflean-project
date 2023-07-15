@@ -35,48 +35,64 @@ const INFO = {
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Simple firebase Ecommerce website",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"simple firebase Ecommerce website build with React , Redux-saga and firebase",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
+			linkText: "https://ecommerce-website-71213.web.app/",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "Simple react CRUD application",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Simple react CRUD application for list of random users from oublic API",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "https://simple-user-crud-app.netlify.app/",
+			link: "github.com/sunnextt/sbsc-test",
 		},
 
 		{
-			title: "Project 5",
+			title: "News application",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
+				"Random news applications from public API",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+			linkText: "https://news-content.netlify.app/",
+			link: "github.com/sunnextt/arklandstructure-assesmt",
+		},
+
+		{
+			title: "Calculator Application",
+			description:
+				"Calculator application build with React and Javascript",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "calculaor-appweb.vercel.app",
+			link: "https://github.com/sunnextt/calc",
+		},
+
+		{
+			title: "Note taker web application",
+			description:
+				"TakeNote is only available as a demo. Your notes will be saved to local storage and not persisted in any database or cloud.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "https://notejotter.vercel.app/",
+			link: "https://github.com/sunnextt/tn-taker",
+		},
+		{
+			title: "Full Ecommerce application",
+			description:
+				"Real world Ecommerce website application build with react bootstrap with paypal payment integration",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "https://proshopshoppingapp.herokuapp.com",
+			link: "https://github.com/sunnextt/proshopstore",
+		},
+		{
+			title: "Mortensonsolution",
+			description:
+				"Real world ECommerce website",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "www.mortensonsolution.com",
+			link: "https://github.com/sunnextt",
 		},
 	],
 };
